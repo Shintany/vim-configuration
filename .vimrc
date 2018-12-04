@@ -19,6 +19,8 @@ map <C-n> :NERDTreeToggle<CR>
 " --------- GENERAL ------
 " Auto pairs
 Plugin 'jiangmiao/auto-pairs'
+" vim-surround
+Plugin 'tpope/vim-surround'
 
 " --------- PYTHON --------
 " jedi-vim
