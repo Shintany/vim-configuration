@@ -16,6 +16,10 @@ autocmd vimenter * NERDTree
 " Key shortcut to open NERDTree
 map <C-n> :NERDTreeToggle<CR>
 
+" --------- APPEARANCE --------
+" vim-airline
+Plugin 'vim-airline/vim-airline'
+
 " --------- GENERAL ------
 " Auto pairs
 Plugin 'jiangmiao/auto-pairs'
