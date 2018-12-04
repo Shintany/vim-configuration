@@ -11,8 +11,6 @@ Plugin 'VundleVim/Vundle.vim'
 
 " NERDTree
 Bundle 'scrooloose/nerdtree' 
-" Open NERDTree automaticcaly when vim starts up
-autocmd vimenter * NERDTree
 " Key shortcut to open NERDTree
 map <C-n> :NERDTreeToggle<CR>
 
